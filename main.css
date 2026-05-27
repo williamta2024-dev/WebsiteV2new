@@ -1,0 +1,19 @@
+/* This targets the entire background of the page */
+body {
+  background-color: #f4f4f4;
+  font-family: Arial, sans-serif;
+}
+
+/* This targets all <h1> headings */
+h1 {
+  color: navy;
+  text-align: center; /* Centers the text */
+  margin-top: 50px;   /* Adds spacing at the top */
+}
+
+/* This targets all <p> paragraphs */
+p {
+  color: #333333;
+  line-height: 1.6; /* Adds spacing between lines of text */
+  text-align: center;
+}
